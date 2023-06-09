@@ -1,4 +1,4 @@
-module fortio.org/fortio
+module  github.com/MUzairS15/fortio
 
 go 1.18
 
