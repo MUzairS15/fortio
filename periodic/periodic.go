@@ -221,7 +221,7 @@ type RunnerResults struct {
 	RunType           string
 	Labels            string
 	StartTime         time.Time
-	RequestedQPS      string
+	RequestedQPS      int
 	RequestedDuration string // String version of the requested duration or exact count
 	ActualQPS         float64
 	ActualDuration    time.Duration
